@@ -4,7 +4,7 @@ hidden: true
 
 # Graph Notes
 
-## Document Graph
+## Document Graph Local
 
 ***
 
