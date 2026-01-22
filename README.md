@@ -8,7 +8,7 @@ hidden: true
 
 ***
 
-* Add props <mark style="color:$danger;">`epicId`</mark> when inserting content Document in Graph. halooo
+* Add props <mark style="color:$danger;">`epicId`</mark> when inserting content Document in Graph. halo
 * Add filtering by <mark style="color:$danger;">`epicId`</mark> if document belongs to <mark style="color:$danger;">EPIC</mark>
 *   When rendering database column table, if data master empty, table not rendered. Instead render table ony column with empty data.
 
