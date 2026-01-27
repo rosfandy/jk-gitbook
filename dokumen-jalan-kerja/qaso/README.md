@@ -4,17 +4,17 @@
 
 [Link SOP](https://www.figma.com/board/e2pbcuNXHbIrqo6n1KJEwC/Mapping-SOP?node-id=197-11434\&t=qO31fGbfBwwk6ndR-0)
 
-<div align="center"><figure><img src="../../.gitbook/assets/image.png" alt="" width="404"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="404"><figcaption></figcaption></figure></div>
 
 LK: [https://jk.smartlink.id/dashboard/lk-document/project/3/product/3/epic/2/document/62](https://jk.smartlink.id/dashboard/lk-document/project/3/product/3/epic/2/document/62)
 
 Coda: -
 
-### &#x20;#1.1 SOP - Pelaksanaan Workshop dengan QASO
+### #1.1 SOP - Pelaksanaan Workshop dengan QASO
 
 <div align="center"><figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-LK:  [https://jk.smartlink.id/dashboard/lk-document/project/3/product/3/epic/2/document/54](https://jk.smartlink.id/dashboard/lk-document/project/3/product/3/epic/2/document/54)
+LK: [https://jk.smartlink.id/dashboard/lk-document/project/3/product/3/epic/2/document/54](https://jk.smartlink.id/dashboard/lk-document/project/3/product/3/epic/2/document/54)
 
 Coda: [https://coda.io/d/QaLution\_dGyLFROHJhN/QA-SOP-A\_suPN6D68#QA-SOP-Fase-A\_tuKqNlsB/r3\&columnId=c-wM-M20wfZr\&view=center](https://coda.io/d/QaLution_dGyLFROHJhN/QA-SOP-A_suPN6D68#QA-SOP-Fase-A_tuKqNlsB/r3\&columnId=c-wM-M20wfZr\&view=center)
 
@@ -33,4 +33,3 @@ Coda: [https://coda.io/d/Coolution\_dxcpqz6UK5b/Data-Dokumen-Hasil\_supnDyko#Dat
 LK: [https://jk.smartlink.id/dashboard/lk-document/project/3/product/3/epic/2/document/56](https://jk.smartlink.id/dashboard/lk-document/project/3/product/3/epic/2/document/56)
 
 Coda: [https://coda.io/d/QaLution\_dGyLFROHJhN/QA-SOP-A\_suPN6D68#QA-SOP-Fase-A\_tuKqNlsB/r1\&view=center](https://coda.io/d/QaLution_dGyLFROHJhN/QA-SOP-A_suPN6D68#QA-SOP-Fase-A_tuKqNlsB/r1\&view=center)
-
