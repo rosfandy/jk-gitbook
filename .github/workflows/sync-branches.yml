@@ -1,0 +1,77 @@
+name: Sync All Branches with Main
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync-branches:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch all branches
+        run: |
+          git fetch origin
+
+      - name: Sync all branches with main
+        run: |
+          # Get all remote branches except main
+          branches=$(git branch -r | grep -v '\->' | grep -v 'origin/main' | sed 's/origin\///' | xargs)
+
+          echo "Found branches to sync: $branches"
+
+          for branch in $branches; do
+            echo "Processing branch: $branch"
+            
+            # Checkout the branch
+            git checkout -b $branch origin/$branch || git checkout $branch
+            
+            # Try to merge main into the branch
+            if git merge origin/main --no-edit; then
+              echo "Successfully merged main into $branch"
+              
+              # Push the changes
+              if git push origin $branch; then
+                echo "Successfully pushed $branch"
+              else
+                echo "Failed to push $branch"
+              fi
+            else
+              echo "Merge conflict detected in $branch. Aborting merge."
+              git merge --abort
+              
+              # Create an issue to notify about the conflict
+              echo "Branch $branch has merge conflicts with main and needs manual resolution." >> conflict_branches.txt
+            fi
+            
+            # Go back to main
+            git checkout main
+          done
+
+      - name: Create issue for conflicts
+        if: hashFiles('conflict_branches.txt') != ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            if (fs.existsSync('conflict_branches.txt')) {
+              const conflicts = fs.readFileSync('conflict_branches.txt', 'utf8');
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: 'Branch Sync Conflicts Detected',
+                body: `The following branches have merge conflicts with main and need manual resolution:\n\n${conflicts}\n\nPlease resolve these conflicts manually.`,
+                labels: ['sync-conflict', 'needs-attention']
+              });
+            }
