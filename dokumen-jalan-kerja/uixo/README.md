@@ -2,6 +2,8 @@
 
 ## #1 [SOP UIX - Pelaksanaan Brainstorming UIXO](https://coda.io/d/_dBL6SIr5sXE#Data-Utama-SOP-UIX_tusdZgiX/r15\&view=modal)
 
+test
+
 <figure><img src="../../.gitbook/assets/image (38).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### [UIXO melakukan analisis & menyiapkan feedback](https://coda.io/d/YUXoolution_dBL6SIr5sXE/Dokumen-Analisis-Brainstorming_sufmx7lX#Dok-Tracking-Utama-Analisa-Brainstorming-Epik-Fitur_tuoJCayU/r1)
