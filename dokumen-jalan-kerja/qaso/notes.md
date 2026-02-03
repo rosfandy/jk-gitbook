@@ -23,3 +23,13 @@
          4. Feedback Field Error Message (User Story level) \[<mark style="color:$primary;">Table]</mark>
          5. Others QA Concerns & Risks <mark style="color:$primary;">\[Table]</mark>
 
+
+
+<mark style="color:$primary;">02/03/2026</mark>
+
+* Sumber Daya Manusia, tambah kolom nama anggota
+* GBTC global bisa dibanyak fitur dan banyak epic
+* PIC, select option di estimasi timeline
+* strategi pengujian non func (canvas, tambah job baru)
+* NFR diambil dari draft PRD
+* bisa ambil reference dari LK yang lain
