@@ -3,6 +3,7 @@
 * [Graph Notes](README.md)
 * [Dokumen Jalan Kerja](dokumen-jalan-kerja/README.md)
   * [QASO](dokumen-jalan-kerja/qaso/README.md)
+    * [Record](dokumen-jalan-kerja/qaso/record.md)
     * [Notes](dokumen-jalan-kerja/qaso/notes.md)
   * [UIXO](dokumen-jalan-kerja/uixo/README.md)
     * [Notes](dokumen-jalan-kerja/uixo/notes.md)
