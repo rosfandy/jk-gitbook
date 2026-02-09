@@ -57,3 +57,16 @@ Notes:
    4. Nama Fitur -> select fitur -> auto select all fitur ?
    5. Memangkas proses repetitif
    6. DSD -> aspek desain -> komponen merefer ke suatu database
+
+
+
+2.9.2026\
+Notes:
+
+1. Backlog belum terhubung ke SOP,  menempel ke Epic
+2. Nama backlog Item (PBI) auto generate diambil dari SOP:\
+   -Pilih SOP ⇒ Pilih Pekerjaan (Defauft Semua Pekerjaan)\
+   -Saat mau Generate muncul List Draft PBI dulu, Task, Assign To, Estimasi, Periode, Prioritas, dll\
+   -Kolom Relasi ⇒ Pekerjaannya
+3. Pada detail todo ditambahkan inputan hasil (kesimpulan)&#x20;
+4. Pekerjaan yang dikerjakan pakai instruksi kerja saja yang bisa generate, yang dikerjakan SOP tidak bisa (disable)
