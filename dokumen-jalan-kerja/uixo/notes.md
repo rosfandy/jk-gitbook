@@ -70,3 +70,11 @@ Notes:
    -Kolom Relasi ⇒ Pekerjaannya
 3. Pada detail todo ditambahkan inputan hasil (kesimpulan)&#x20;
 4. Pekerjaan yang dikerjakan pakai instruksi kerja saja yang bisa generate, yang dikerjakan SOP tidak bisa (disable)
+
+
+
+2.17.2026\
+Notes:
+
+1. Link yang dipake untuk Workshop UIX adalah Draft PRD karena PRD belum fix
+2. Ada opsi, Backlog yang tidak terikat sama sekali dengan Product (independen) untuk meeting, dsb.
