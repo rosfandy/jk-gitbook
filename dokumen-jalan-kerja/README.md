@@ -6,7 +6,7 @@ description: Berisi Dokumentasi Panduan Dokumen Jalan Kerja
 
 ## Konsep
 
-<div align="center"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Sebuah **Dokumen** memiliki **Lembar Kerja** yang berisi beberapa _section_ pekerjaan. Pekerjaan tersebut dapat dipilih berdasarkan **SOP** yang tersedia atau disusun tanpa mengacu pada SOP, sesuai dengan kebutuhan pelaksanaan kerja.
 

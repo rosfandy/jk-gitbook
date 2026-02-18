@@ -4,7 +4,7 @@
 
 [Link SOP](https://www.figma.com/board/e2pbcuNXHbIrqo6n1KJEwC/Mapping-SOP?node-id=197-11434\&t=qO31fGbfBwwk6ndR-0)
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="404"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="404"><figcaption></figcaption></figure></div>
 
 LK: [https://jk.smartlink.id/dashboard/lk-document/project/3/product/3/epic/2/document/62](https://jk.smartlink.id/dashboard/lk-document/project/3/product/3/epic/2/document/62)
 

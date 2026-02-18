@@ -2,7 +2,7 @@
 description: Dokumentasi Update Kendala JK oleh PO
 ---
 
-# Update Kendala PO
+# Feedback PO
 
 ## 12.26.2025 - Shania
 
@@ -60,9 +60,10 @@ Fixed ✅ :&#x20;
 
 1. **Current Condition**\
    kalo dilihat pada dokumen hasil dari eksplorasi fitur, pada table of contentnya sudah ada nomor per sectionnya. Namun, untuk dokumen yang dibaca masih belum ada. Ini membuat pembaca agak kesulitan untuk mengetahui mereka sudah ada di section berapa.\
-   ![](../../.gitbook/assets/image.png)
+   ![](<../../.gitbook/assets/image (1).png>)
 2. **Expected**\
-   Ada angka/penomoran per sectionnya. seperti yang sudah PO lakukan secara manual di Coda
-3.
+   Ada angka/penomoran per sectionnya. seperti yang sudah PO lakukan secara manual di Coda\
+   ![](../../.gitbook/assets/image.png)\
+   Tambahan : untuk mempermudah keterbacaan juga bisa dikasih divider/line separator per sectionnya.
 {% endstep %}
 {% endstepper %}
