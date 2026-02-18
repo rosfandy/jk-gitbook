@@ -50,7 +50,7 @@ Section atau pekerjaan pada dokumen dapat memiliki beberapa tipe sebagai berikut
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-Inputan teks akan berupa Editor (_Rich Text Editor_) _WYSIWYG ._
+Inputan teks akan berupa [_Rich Text Editor_](https://jalankerja.gitbook.io/jalankerja/notes/dokumen-jalan-kerja/editor-wysiwyg) _._
 
 {% hint style="info" %}
 Section akan berupa inputan teks
