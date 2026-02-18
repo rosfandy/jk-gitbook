@@ -50,6 +50,8 @@ Section atau pekerjaan pada dokumen dapat memiliki beberapa tipe sebagai berikut
 
 <figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
+Inputan teks akan berupa Editor (_Rich Text Editor_) _WYSIWYG ._
+
 {% hint style="info" %}
 Section akan berupa inputan teks
 {% endhint %}
