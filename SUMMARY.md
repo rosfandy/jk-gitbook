@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Graph Notes](README.md)
-* [Dokumen Jalan Kerja](dokumen-jalan-kerja.md)
-* [Editor WYSIWYG](editor-wysiwyg.md)
+* [Dokumen Jalan Kerja](dokumen-jalan-kerja/README.md)
+  * [Editor WYSIWYG](dokumen-jalan-kerja/editor-wysiwyg.md)
 * [Update Jalan Kerja](update-jalan-kerja.md)
 * [Testing & Feedback](testing-and-feedback/README.md)
   * [PO](testing-and-feedback/po/README.md)
