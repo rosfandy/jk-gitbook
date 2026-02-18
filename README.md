@@ -12,7 +12,7 @@ hidden: true
 * Add filtering by <mark style="color:$danger;">`epicId`</mark> if document belongs to <mark style="color:$danger;">EPIC</mark>
 *   When rendering database column table, if data master empty, table not rendered. Instead render table ony column with empty data.
 
-    <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 * untuk table dengan catatan kaki atau semacanya -> grid / table
 * sub dalam sub -> Text (limitasi 1 sub dalam job) , eg:
   * Job \[canvas] -> Job 1 -> akan masuk dalam Table of Content

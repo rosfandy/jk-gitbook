@@ -38,18 +38,14 @@ Notes:
        1. LK belum di cantumkan di coda
        2. Struktur dokumen DSD yg kompleks banyak blocker
 
-       <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
+       <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 1.29.2026\
 Notes:
 
 1. Workshop\
-   a. Draft PRD ⇒ UIXO ⇒ Workshop UIX = - Analisis, UI Sketch, dll ⇒ PO ⇒ SPK HiFi ⇒ UIXO ⇒ Visualisasi HiFi \
-   b. Backlog&#x20;
+   a. Draft PRD ⇒ UIXO ⇒ Workshop UIX = - Analisis, UI Sketch, dll ⇒ PO ⇒ SPK HiFi ⇒ UIXO ⇒ Visualisasi HiFi\
+   b. Backlog
 2. DSD -> resource Draft PRD
    1. Penambahan informasi umum -> section
    2. Draft PRD -> refere link ke draft prd -> lampiran dokumen
@@ -58,20 +54,16 @@ Notes:
    5. Memangkas proses repetitif
    6. DSD -> aspek desain -> komponen merefer ke suatu database
 
-
-
 2.9.2026\
 Notes:
 
-1. Backlog belum terhubung ke SOP,  menempel ke Epic
+1. Backlog belum terhubung ke SOP, menempel ke Epic
 2. Nama backlog Item (PBI) auto generate diambil dari SOP:\
    -Pilih SOP ⇒ Pilih Pekerjaan (Defauft Semua Pekerjaan)\
    -Saat mau Generate muncul List Draft PBI dulu, Task, Assign To, Estimasi, Periode, Prioritas, dll\
    -Kolom Relasi ⇒ Pekerjaannya
-3. Pada detail todo ditambahkan inputan hasil (kesimpulan)&#x20;
+3. Pada detail todo ditambahkan inputan hasil (kesimpulan)
 4. Pekerjaan yang dikerjakan pakai instruksi kerja saja yang bisa generate, yang dikerjakan SOP tidak bisa (disable)
-
-
 
 2.17.2026\
 Notes:
