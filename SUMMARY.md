@@ -12,6 +12,7 @@
     * [Notes](testing-and-feedback/devl/notes.md)
   * [UIXO](testing-and-feedback/uixo/README.md)
     * [Notes](testing-and-feedback/uixo/notes.md)
+    * [Recording UIX](testing-and-feedback/uixo/recording-uix.md)
   * [QASO](testing-and-feedback/qaso/README.md)
     * [Record](testing-and-feedback/qaso/record.md)
     * [Notes](testing-and-feedback/qaso/notes.md)

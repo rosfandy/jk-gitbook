@@ -103,3 +103,16 @@ Untuk mempublish sebuah dokumen perlu dipastikan bahwa progress Lembar Kerja sud
 1. Semua Pekerjaan
 2. Pilih Pekerjaan
 3. Rangkuman
+
+## Data Master
+
+{% embed url="https://www.loom.com/share/34aaa513cf884680a956351b93e8ea5f" %}
+
+Konsep Data Master dibuat berdasarkan kebutuhan akan sebuah dokumen yang akan menggunakan data dari dokumen lain. Contoh kasus:
+
+* Dokumen <mark style="color:red;">Brainstorming UIX</mark> **:** Rekomendasi Userflow -> mengkonsumsi data `Caseflow` pada Dokumen <mark style="color:red;">Eksplorasi Epik</mark>
+
+Panduan:
+
+1. Target table yang akan dikonsumsi, jadikan `data master`&#x20;
+2. Ubah kolom table pada dokumen yang akan mengkonsumsi table yang baru akan ditambahkan pada menu `template`
